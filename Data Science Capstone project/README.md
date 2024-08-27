@@ -1,15 +1,45 @@
-# IBM Data Science Capstone Project - SpaceX
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+# IBM Data Science Capstone Project
 
-This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
+## Project Overview
+
+This repository contains the final capstone project for the IBM Data Science Professional Certificate. The goal of this project is to predict the success of the SpaceX Falcon 9 first stage landing. SpaceX offers rocket launches at a significantly lower cost—$62 million compared to over $165 million by other providers—thanks to their ability to reuse the first stage of the rocket. By accurately predicting the likelihood of a successful landing, we can estimate the cost of a launch. This prediction is crucial for a startup that aims to compete with SpaceX in the commercial rocket launch market.
+
 ## Business Problem
-SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.
+
+SpaceX's ability to reuse the first stage of their Falcon 9 rocket drastically reduces launch costs. Competing companies could benefit from predicting whether a launch will result in a successful landing, allowing them to make more informed bids against SpaceX. By applying data science and machine learning techniques, we aim to accurately predict the likelihood of a successful first stage landing.
 
 ## Objective
-To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
-Explore the data in order to obtain more insight from the data.
 
+The primary objective of this project is to utilize data science and machine learning techniques to predict the likelihood of a successful landing of the Falcon 9 first stage. This prediction will help estimate the cost of a rocket launch, providing valuable insights for a startup aiming to compete with SpaceX.
 
 ## Deliverables
-Accurate predictive algorithms
-Business case report to stakeholders
+
+- **Predictive Models**: Development of accurate predictive algorithms to assess the likelihood of a successful first stage landing.
+- **Business Case Report**: A comprehensive report detailing the findings and recommendations to stakeholders, enabling informed decision-making.
+
+## Methodology
+
+The project follows the standard Data Science methodology, including:
+
+1. **Data Collection**: Gathering real-world data related to SpaceX launches.
+2. **Data Wrangling**: Cleaning and preparing the data for analysis.
+3. **Exploratory Data Analysis (EDA)**: Exploring the data to uncover insights and patterns.
+4. **Data Visualization**: Visualizing the data to enhance understanding and communication.
+5. **Model Development**: Building and fine-tuning machine learning models to predict landing outcomes.
+6. **Model Evaluation**: Assessing the performance of the models to ensure accuracy and reliability.
+7. **Reporting**: Communicating the results and recommendations to stakeholders.
+
+## How to Use
+
+To reproduce the results or further explore the data:
+
+1. Clone this repository.
+2. Follow the instructions provided in the `notebooks` directory for each stage of the project.
+3. Review the final report for detailed insights and recommendations.
+
+## Conclusion
+
+By accurately predicting the success of the Falcon 9 first stage landing, this project provides valuable insights that could empower a startup to compete effectively in the commercial rocket launch industry.
+
+---
+
