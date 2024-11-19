@@ -77,6 +77,3 @@ The dataset contains historical sales data from 45 Walmart stores, covering the 
 - **Incorporating Additional Data**: Integrating more economic indicators or weather data to further enhance model predictions.
 - **Model Optimization**: Experimenting with advanced models like XGBoost or neural networks.
 
----
-
-Make sure to adjust the README with any specific metrics, model accuracies, or other details that you gather from your project results.
